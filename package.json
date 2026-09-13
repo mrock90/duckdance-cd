@@ -1,6 +1,7 @@
 {
   "name": "duckdance-cd",
   "version": "0.1.0",
+  "homepage": "https://mrock90.github.io/duckdance-cd",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
